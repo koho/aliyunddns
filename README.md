@@ -14,7 +14,7 @@ There are two ways to pass arguments to the program:
 Note: when passing a config file, all the other arguments will be ignored.
 
 Here are the full arguments list:
-```cmd
+```
 usage: ddns.py [-h] [-c CONFIG] [--access-key ACCESS_KEY]
                [--secret-key SECRET_KEY] [--domain DOMAIN]
                [--host-record HOST_RECORD] [--line LINE] [--ttl TTL]
